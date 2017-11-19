@@ -1,0 +1,44 @@
+
+body {
+	background-color: #e0e0e0;
+}
+
+img {
+	width :75px;
+	height :75px;
+	border: 2px;
+	border-style: outset;
+}
+
+#frame_1 {
+	width: 25%;
+	height: 100px;
+	background-color:#99ff99;
+	margin-bottom:50px;
+	margin-top: 2px;
+
+}
+
+#frame_2 {
+
+	width: 350px;
+	height: 100px;
+	background-color:#cce5ff;
+	margin-top: 5px;
+	
+}
+
+#frame_3 {
+	width: 100px;
+	height: 30px;
+	margin-top: 10px;
+	color:red;
+}
+
+#number_to_guess {
+	font-size: 50px;	
+}
+
+#new_score {
+	font-size: 30px;
+}
